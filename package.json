@@ -1,0 +1,24 @@
+{
+  "name": "ts-course-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrSoiko/ts-course-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrSoiko/ts-course-practice/issues"
+  },
+  "homepage": "https://github.com/AleksandrSoiko/ts-course-practice#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
